@@ -47,8 +47,6 @@ adb install YourTV.apk
   需使用加密解密工具網站 https://yourtvcrypto.horsenma.net  加密後存儲。<br>
   2、我上傳的APK文件與源碼可能不同步，APK文件比較新，源碼更新一般落後幾天，請注意查看，<br>
   3、我上傳的APK文件使用的加密解密邏輯與項目內加密解密邏輯：https://yourtvcrypto.horsenma.net  不同，目的保護我的私有資源信息。<br>
-* 旧电视机无法观看webview网页视频频道的，手动强制安装<br>
-**[Android System WebView 6.0+ 下载](https://ftp.horsenma.net/tv/Android_System_WebView_Android_6_0.apk)**<br>
 
 ## 感謝
 
