@@ -1,7 +1,7 @@
 {
-  "version_code": 20307,
-  "version_name": "2.3.7",
-  "apk_url": "https://github.com/horsemail/yourtv/releases/download/v2.3.7/yourtv_v2.3.7.apk",
-  "apk_name": "yourtv_v2.3.7.apk",
-  "description": "菜單增加+號按鈕加載源鏈接\n高級用戶將獲得更多福利"
+  "version_code": 20308,
+  "version_name": "2.3.8",
+  "apk_url": "https://github.com/horsemail/yourtv/releases/download/v2.3.8/yourtv_v2.3.8.apk",
+  "apk_name": "yourtv_v2.3.8.apk",
+  "description": "啟動APP直接註冊/登錄，優化穩定線路邏輯\n建議您務必更新，體驗發現新版本的驚喜"
 }
